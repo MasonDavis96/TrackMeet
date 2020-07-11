@@ -31,3 +31,45 @@ Run Command:<br>
 Enter number:
 ```
 <br>
+
+## Get the results for an event
+```
+Enter Event's ID Number: 1
+
+|Place |First   |Last     |EventID |Event       |Result |Points |School |Disqualified|
+--------------------------------------------------------------------------------------
+|1     |Reggie  |Walker   |1       |100m Sprint |3.23   |10     |OSU    |No          |
+|1     |Percy   |Williams |1       |100m Sprint |2.32   |10     |UO     |Yes         |
+|2     |Bobby   |Morrow   |1       |100m Sprint |4.56   |8      |OIT    |No          |
+|3     |Thomas  |Burke    |1       |100m Sprint |5.03   |6      |EOU    |No          |
+|4     |Jesse   |Owens    |1       |100m Sprint |6.12   |4      |OIT    |No          |
+|5     |Carl    |Lewis    |1       |100m Sprint |6.76   |2      |WOU    |No          |
+|6     |Frank   |Jarvis   |1       |100m Sprint |7.56   |1      |EOU    |No          |
+|7     |Jim     |Hines    |1       |100m Sprint |9.87   |0      |WOU    |No          |
+|7     |Archie  |Hahn     |1       |100m Sprint |9.02   |0      |EOU    |Yes         |
+
+```
+<br>
+
+## Score the meet
+```
+Men's Team Scores
+|Place |School  |Points|
+--------------------------
+|1     |OIT     |12    |
+|2     |OSU     |10    |
+|3     |EOU     |7     |
+|4     |WOU     |2     |
+|5     |UO      |0     |
+
+Women's Team Scores
+|Place |School  |Points|
+--------------------------
+|1     |OIT     |10    |
+|2     |EOU     |8     |
+|3     |OSU     |6     |
+|4     |UO      |0     |
+|5     |WOU     |0     |
+
+```
+<br>
