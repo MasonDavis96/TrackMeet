@@ -1,5 +1,5 @@
 # Track Meet
-A program that connects to a database (meant to emulate a school of athletes attending a track meet) to allow officials to score athletes and the track meet. Includes options for adding/scoring individual athletes, getting results for a particular event, disqualifying athletes, and scoring an event or the entire meet<br><br>
+A program that connects to a database (meant to emulate a school of athletes attending a track meet) to allow officials to score athletes and the track meet. Includes options for adding individual athletes, disqualifying athletes, getting results for a particular event, and scoring an event or the entire meet<br><br>
 
 
 # What I Learned
