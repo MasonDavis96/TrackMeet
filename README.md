@@ -14,3 +14,20 @@ Run Command:<br>
 
 `javac -cp .:mysql-connector-java-5.1.38-bin.jar DavisP4.java`<br>
 `java -cp .:mysql-connector-java-5.1.38-bin.jar DavisP4`<br><br>
+
+
+# Application Example<br>
+
+## Main Menu
+```
+1. Add a new Athlete
+2. Enter a new result
+3. Get the results for an event
+4. Score an event
+5. Disqualify an athlete for one event
+6. Disqualify an athlete for the meet
+7. Score the meet
+8. QUIT
+Enter number:
+```
+<br>
