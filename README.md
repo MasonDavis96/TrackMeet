@@ -32,7 +32,20 @@ Enter number:
 ```
 <br>
 
-## Get the results for an event
+
+
+## 1. Add a new Athlete
+```
+Enter Athlete's first name: Super
+Enter Athlete's last name: Man  
+Enter Athlete's gender (m or f): m
+Enter Athlete's school ID: 1
+```
+<br>
+
+
+
+## 3. Get the results for an event
 ```
 Enter Event's ID Number: 1
 
@@ -51,7 +64,9 @@ Enter Event's ID Number: 1
 ```
 <br>
 
-## Score the meet
+
+
+## 7. Score the meet
 ```
 Men's Team Scores
 |Place |School  |Points|
